@@ -1,8 +1,8 @@
 # Deepfake Detection
 
 Work by:
-Akshat Chhatriwala
 Ishita Akolkar
+Akshat Chhatriwala
 
 Study on:
 
