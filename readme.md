@@ -4,7 +4,7 @@ This repository contains code and experiments for detecting deepfake videos usin
 
 ---
 
-Work By:
+## Work By:
 1. Ishita Akolkar
 2. Akshat Chhatriwala
 3. Prof. (Dr.) Shankar Parmar
